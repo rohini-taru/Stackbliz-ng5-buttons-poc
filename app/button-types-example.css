@@ -1,0 +1,47 @@
+.example-button-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#b1 {
+  //color: red;
+  z-index: 100;
+  border: 2px solid white;
+}
+#b2 {
+  //color: red;
+  z-index:99;
+  margin-left: -20px;
+  border: 2px solid white;
+}
+#b3 {
+  //color: red;
+  z-index: 98;
+  margin-left: -20px;
+  border: 2px solid white;
+}
+#b4 {
+  color: red;
+  z-index: 97;
+  margin-left: -20px;
+  border: 2px solid white;
+}
+#b5 {
+  //color: red;
+  z-index: 96;
+  margin-left: -20px;
+  border: 2px solid white;
+}
+#b6 {
+  //color: red;
+  z-index: 95;
+  margin-left: -20px;
+  border: 2px solid white;
+}
+#b7 {
+  //color: red;
+  z-index: 94;
+  margin-left: -20px;
+  border: 2px solid white;
+}
