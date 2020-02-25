@@ -40,8 +40,16 @@
   border: 2px solid white;
 }
 #b7 {
-  //color: red;
-  z-index: 94;
-  margin-left: -20px;
+  margin-right: 10px;
   border: 2px solid white;
+  box-shadow: -4px -4px green, 4px -4px red, 
+  -4px 4px blue, 4px 4px magenta;
+}
+
+#b8 { 
+  border: 2px solid white;
+  box-shadow: -4px -4px green inset, 
+  4px -4px red inset, 
+  4px 4px black inset,
+  -4px 4px blue inset;
 }
